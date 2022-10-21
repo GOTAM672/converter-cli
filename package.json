@@ -10,10 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/GOTAM672/converter-cli.git"
   },
-  "author": "",
+  "author": "Gotam Gorabh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GOTAM672/converter-cli/issues"
   },
-  "homepage": "https://github.com/GOTAM672/converter-cli#readme"
+  "homepage": "https://github.com/GOTAM672/converter-cli#readme",
+  "bin": {
+     "convert": "index.js"
+  }
+
+
 }
